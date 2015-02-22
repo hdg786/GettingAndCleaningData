@@ -52,9 +52,13 @@ How to run the code
 
 In your working directory create a folder 'UCI HAR Dataset', store run_Analysis there as well. run_Analysis will do the following
 
-    Merges the training and the test sets to create one data set.
-    Extracts only the measurements on the mean and standard deviation for each measurement. 
-    Uses descriptive activity names to name the activities in the data set
-    Appropriately labels the data set with descriptive variable names. 
-    From the data set in step 4, creates a second, independent tidy data set with the average of each variable for 
-    each   activity and each subject.
+    - Merges the training and the test sets to create one data set.
+    - Extracts only the measurements on the mean and standard deviation for each measurement. 
+    - Uses descriptive activity names to name the activities in the data set
+    - Appropriately labels the data set with descriptive variable names. 
+    - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for 
+      each activity and each subject.
+      
+You will see a myDataSummary.txt file that will be created in your working directory which will be the final tiday data set output that has the average of each variable for each activity and each subject
+
+
