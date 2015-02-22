@@ -91,7 +91,7 @@ For each record in the dataset it is provided:
 * Activity
 
 
-
+# Code Details
 
 - Activity: is one of the 6 available (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 - Subject: Identifies unique volunteer (1-30)
@@ -100,7 +100,7 @@ For each record in the dataset it is provided:
 - Acc vs Gyro: coming from the accelerometer or gyroscope 
 - BodyAcc vs GravityAcc: Accelaration signal separated into Body and Gravity accelaration signal
 - BodyAccJerk vs BodyGyroJerk : body linear acceleration and angular velocity were derived in time to obtain Jerk signals 
-- *Mag: magnitude of these three-dimensional signals were calculated using the Euclidean norm  
+- Mag: magnitude of these three-dimensional signals were calculated using the Euclidean norm  
 - mean and std: Mean and Std of given variable aggregated by subject and activity
 
 
