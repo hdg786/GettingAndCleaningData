@@ -59,6 +59,6 @@ In your working directory create a folder 'UCI HAR Dataset', store run_Analysis 
     - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for 
       each activity and each subject.
       
-You will see a myDataSummary.txt file that will be created in your working directory which will be the final tiday data set output that has the average of each variable for each activity and each subject
+You will see a myDataSummarytidy.txt file that will be created in your working directory which will be the final tiday data set output that has the average of each variable for each activity and each subject
 
 
