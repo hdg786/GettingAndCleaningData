@@ -19,7 +19,7 @@ For each record in the dataset it is provided:
 - An identifier of the subject who carried out the experiment. 
 
 
-# The following codes are included in the tidy data (myDataSummarytidy) text file
+# The following codes are included in the tidy data (myDataSummarytidy):
 
 * tBodyAcc.mean.X
 * tBodyAcc.mean.Y
@@ -89,6 +89,8 @@ For each record in the dataset it is provided:
 * fBodyGyroJerkMag.std
 * Subject
 * Activity
+
+
 
 
 - Activity: is one of the 6 available (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
