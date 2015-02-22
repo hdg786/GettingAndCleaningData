@@ -95,6 +95,9 @@ For each record in the dataset it is provided:
 
 - Activity: is one of the 6 available (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) [Unit: string]
 - Subject: Identifies unique volunteer (1-30) [Unit: Numeric]
+
+The above values (Unit: Numeric) codes description:
+
 - t vs f: time domain signal versus frequency domain signal (Fast fourier transformed)
 - '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 - Acc vs Gyro: coming from the accelerometer or gyroscope 
